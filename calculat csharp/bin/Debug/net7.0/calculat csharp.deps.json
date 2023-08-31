@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "calculat csharp/1.0.0": {
+        "runtime": {
+          "calculat csharp.dll": {}
+        }
+      },
+      "class calculator/1.0.0": {
+        "runtime": {
+          "class calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculat csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "class calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

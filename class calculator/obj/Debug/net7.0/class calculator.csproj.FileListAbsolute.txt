@@ -1,0 +1,22 @@
+D:\git_server\csharp-project\calculator csharp\class calculator\bin\Debug\net7.0\class calculator.deps.json
+D:\git_server\csharp-project\calculator csharp\class calculator\bin\Debug\net7.0\class calculator.dll
+D:\git_server\csharp-project\calculator csharp\class calculator\bin\Debug\net7.0\class calculator.pdb
+D:\git_server\csharp-project\calculator csharp\class calculator\obj\Debug\net7.0\class calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_server\csharp-project\calculator csharp\class calculator\obj\Debug\net7.0\class calculator.AssemblyInfoInputs.cache
+D:\git_server\csharp-project\calculator csharp\class calculator\obj\Debug\net7.0\class calculator.AssemblyInfo.cs
+D:\git_server\csharp-project\calculator csharp\class calculator\obj\Debug\net7.0\class calculator.csproj.CoreCompileInputs.cache
+D:\git_server\csharp-project\calculator csharp\class calculator\obj\Debug\net7.0\class calculator.dll
+D:\git_server\csharp-project\calculator csharp\class calculator\obj\Debug\net7.0\refint\class calculator.dll
+D:\git_server\csharp-project\calculator csharp\class calculator\obj\Debug\net7.0\class calculator.pdb
+D:\git_server\csharp-project\calculator csharp\class calculator\obj\Debug\net7.0\ref\class calculator.dll
+D:\git_server\adelesaeedi\csharp\calculator\class calculator\bin\Debug\net7.0\class calculator.deps.json
+D:\git_server\adelesaeedi\csharp\calculator\class calculator\bin\Debug\net7.0\class calculator.dll
+D:\git_server\adelesaeedi\csharp\calculator\class calculator\bin\Debug\net7.0\class calculator.pdb
+D:\git_server\adelesaeedi\csharp\calculator\class calculator\obj\Debug\net7.0\class calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_server\adelesaeedi\csharp\calculator\class calculator\obj\Debug\net7.0\class calculator.AssemblyInfoInputs.cache
+D:\git_server\adelesaeedi\csharp\calculator\class calculator\obj\Debug\net7.0\class calculator.AssemblyInfo.cs
+D:\git_server\adelesaeedi\csharp\calculator\class calculator\obj\Debug\net7.0\class calculator.csproj.CoreCompileInputs.cache
+D:\git_server\adelesaeedi\csharp\calculator\class calculator\obj\Debug\net7.0\class calculator.dll
+D:\git_server\adelesaeedi\csharp\calculator\class calculator\obj\Debug\net7.0\refint\class calculator.dll
+D:\git_server\adelesaeedi\csharp\calculator\class calculator\obj\Debug\net7.0\class calculator.pdb
+D:\git_server\adelesaeedi\csharp\calculator\class calculator\obj\Debug\net7.0\ref\class calculator.dll

@@ -1,0 +1,36 @@
+D:\git_server\csharp-project\calculator csharp\calculat csharp\bin\Debug\net7.0\calculat csharp.exe
+D:\git_server\csharp-project\calculator csharp\calculat csharp\bin\Debug\net7.0\calculat csharp.deps.json
+D:\git_server\csharp-project\calculator csharp\calculat csharp\bin\Debug\net7.0\calculat csharp.runtimeconfig.json
+D:\git_server\csharp-project\calculator csharp\calculat csharp\bin\Debug\net7.0\calculat csharp.dll
+D:\git_server\csharp-project\calculator csharp\calculat csharp\bin\Debug\net7.0\calculat csharp.pdb
+D:\git_server\csharp-project\calculator csharp\calculat csharp\bin\Debug\net7.0\class calculator.dll
+D:\git_server\csharp-project\calculator csharp\calculat csharp\bin\Debug\net7.0\class calculator.pdb
+D:\git_server\csharp-project\calculator csharp\calculat csharp\obj\Debug\net7.0\calculat csharp.csproj.AssemblyReference.cache
+D:\git_server\csharp-project\calculator csharp\calculat csharp\obj\Debug\net7.0\calculat csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_server\csharp-project\calculator csharp\calculat csharp\obj\Debug\net7.0\calculat csharp.AssemblyInfoInputs.cache
+D:\git_server\csharp-project\calculator csharp\calculat csharp\obj\Debug\net7.0\calculat csharp.AssemblyInfo.cs
+D:\git_server\csharp-project\calculator csharp\calculat csharp\obj\Debug\net7.0\calculat csharp.csproj.CoreCompileInputs.cache
+D:\git_server\csharp-project\calculator csharp\calculat csharp\obj\Debug\net7.0\calculat csharp.csproj.CopyComplete
+D:\git_server\csharp-project\calculator csharp\calculat csharp\obj\Debug\net7.0\calculat csharp.dll
+D:\git_server\csharp-project\calculator csharp\calculat csharp\obj\Debug\net7.0\refint\calculat csharp.dll
+D:\git_server\csharp-project\calculator csharp\calculat csharp\obj\Debug\net7.0\calculat csharp.pdb
+D:\git_server\csharp-project\calculator csharp\calculat csharp\obj\Debug\net7.0\calculat csharp.genruntimeconfig.cache
+D:\git_server\csharp-project\calculator csharp\calculat csharp\obj\Debug\net7.0\ref\calculat csharp.dll
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\bin\Debug\net7.0\calculat csharp.exe
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\bin\Debug\net7.0\calculat csharp.deps.json
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\bin\Debug\net7.0\calculat csharp.runtimeconfig.json
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\bin\Debug\net7.0\calculat csharp.dll
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\bin\Debug\net7.0\calculat csharp.pdb
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\bin\Debug\net7.0\class calculator.dll
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\bin\Debug\net7.0\class calculator.pdb
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\obj\Debug\net7.0\calculat csharp.csproj.AssemblyReference.cache
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\obj\Debug\net7.0\calculat csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\obj\Debug\net7.0\calculat csharp.AssemblyInfoInputs.cache
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\obj\Debug\net7.0\calculat csharp.AssemblyInfo.cs
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\obj\Debug\net7.0\calculat csharp.csproj.CoreCompileInputs.cache
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\obj\Debug\net7.0\calculat csharp.csproj.CopyComplete
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\obj\Debug\net7.0\calculat csharp.dll
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\obj\Debug\net7.0\refint\calculat csharp.dll
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\obj\Debug\net7.0\calculat csharp.pdb
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\obj\Debug\net7.0\calculat csharp.genruntimeconfig.cache
+D:\git_server\adelesaeedi\csharp\calculator\calculat csharp\obj\Debug\net7.0\ref\calculat csharp.dll
